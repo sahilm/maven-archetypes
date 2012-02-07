@@ -6,7 +6,6 @@
       <groupId>com.sahilm</groupId>
       <artifactId>template</artifactId>
       <version>0.1</version>
-      <repository></repository>
       <description>A simple project template</description>
     </archetype>
   </archetypes>
